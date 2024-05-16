@@ -1,0 +1,101 @@
+City,Date,Temperature,Feels Like,Description,Humidity,Wind Speed,Cloudiness,Pressure
+Toronto,2024-05-17,56.14,55.54,overcast clouds,87,6.33,100,1012
+Toronto,2024-05-18,56.82,56.68,overcast clouds,95,3.58,99,1013
+Toronto,2024-05-19,60.06,59.43,overcast clouds,78,5.21,86,1014
+Toronto,2024-05-20,59.09,58.46,scattered clouds,80,1.79,36,1018
+Toronto,2024-05-21,58.64,57.72,overcast clouds,75,7.02,100,1016
+Montreal,2024-05-17,59.23,58.39,overcast clouds,75,4.7,100,1017
+Montreal,2024-05-18,58.66,58.64,moderate rain,94,8.08,99,1016
+Montreal,2024-05-19,62.47,62.51,overcast clouds,87,2.84,100,1016
+Montreal,2024-05-20,64.47,64.38,clear sky,80,0.76,5,1018
+Montreal,2024-05-21,63.5,63.18,overcast clouds,77,5.79,92,1020
+Vancouver,2024-05-17,48.88,41.97,overcast clouds,68,20.87,85,1012
+Vancouver,2024-05-18,48.56,44.51,overcast clouds,82,9.28,99,1018
+Vancouver,2024-05-19,45.75,45.75,overcast clouds,86,1.5,97,1020
+Vancouver,2024-05-20,47.77,47.77,broken clouds,77,2.66,60,1023
+Vancouver,2024-05-21,49.32,45.37,moderate rain,96,9.46,100,1015
+Calgary,2024-05-17,40.46,33.49,overcast clouds,80,11.79,99,1002
+Calgary,2024-05-18,40.28,35.94,overcast clouds,78,6.22,85,1011
+Calgary,2024-05-19,37.13,31.21,scattered clouds,88,7.78,45,1012
+Calgary,2024-05-20,39.92,32.81,overcast clouds,77,11.83,100,1015
+Calgary,2024-05-21,38.79,35.29,broken clouds,93,4.7,77,1015
+Edmonton,2024-05-17,42.22,35.82,overcast clouds,91,11.52,100,1001
+Edmonton,2024-05-18,36.46,29.86,overcast clouds,91,8.77,100,1010
+Edmonton,2024-05-19,40.24,32.92,light rain,93,12.64,100,1009
+Edmonton,2024-05-20,35.04,26.4,light snow,98,12.5,100,1017
+Edmonton,2024-05-21,37.02,34.57,broken clouds,96,3.36,76,1016
+Ottawa,2024-05-17,58.03,57.96,light rain,94,3.47,86,1016
+Ottawa,2024-05-18,59.61,59.88,light rain,98,5.01,100,1015
+Ottawa,2024-05-19,61.99,62.08,clear sky,89,6.46,2,1015
+Ottawa,2024-05-20,62.8,62.67,clear sky,83,4.43,6,1018
+Ottawa,2024-05-21,59.95,59.45,overcast clouds,81,7.34,100,1019
+Winnipeg,2024-05-17,52.27,51.33,light rain,88,11.79,100,1001
+Winnipeg,2024-05-18,56.41,55.98,light rain,90,11.88,81,997
+Winnipeg,2024-05-19,49.12,44.55,scattered clouds,75,11.23,31,1007
+Winnipeg,2024-05-20,54.61,54.14,light rain,93,8.1,100,996
+Winnipeg,2024-05-21,45.34,40.37,broken clouds,87,9.71,57,1007
+Quebec City,2024-05-17,52.5,51.44,overcast clouds,85,9.71,98,1018
+Quebec City,2024-05-18,52.63,52.14,light rain,97,6.46,100,1018
+Quebec City,2024-05-19,56.68,56.66,light rain,98,2.06,100,1017
+Quebec City,2024-05-20,54.82,54.52,overcast clouds,96,6.91,99,1019
+Quebec City,2024-05-21,64.98,65.41,overcast clouds,90,4.99,85,1020
+Hamilton,2024-05-17,62.96,63.46,overcast clouds,96,3.71,99,1011
+Hamilton,2024-05-18,62.17,62.69,light rain,98,5.57,98,1009
+Hamilton,2024-05-19,63.43,64.02,overcast clouds,97,3.94,100,1010
+Hamilton,2024-05-20,60.78,60.84,broken clouds,91,3.27,67,1014
+Hamilton,2024-05-21,66.2,67.03,light rain,96,4.85,44,1013
+Kitchener,2024-05-17,56.25,55.89,light rain,92,5.73,97,1012
+Kitchener,2024-05-18,60.17,60.44,overcast clouds,97,6.4,96,1012
+Kitchener,2024-05-19,58.1,57.85,broken clouds,90,7.29,56,1013
+Kitchener,2024-05-20,60.01,59.79,scattered clouds,87,4.16,48,1018
+Kitchener,2024-05-21,58.48,58.06,overcast clouds,86,14.23,100,1014
+London,2024-05-17,67.75,66.61,broken clouds,51,4.76,54,1010
+London,2024-05-18,59.25,58.68,light rain,81,2.08,100,1014
+London,2024-05-19,67.59,66.49,light rain,52,8.61,61,1013
+London,2024-05-20,59.27,57.96,overcast clouds,65,11.68,90,1018
+London,2024-05-21,63.45,61.75,few clouds,48,9.06,15,1017
+Victoria,2024-05-17,75.78,76.82,scattered clouds,80,11.77,32,1011
+Victoria,2024-05-18,74.59,75.22,light rain,74,15.32,100,1010
+Victoria,2024-05-19,75.76,76.69,overcast clouds,78,18.68,100,1008
+Victoria,2024-05-20,75.06,76.41,light rain,88,18.52,100,1008
+Victoria,2024-05-21,75.9,77.47,light rain,91,12.91,99,1006
+Halifax,2024-05-17,55.24,53.65,broken clouds,68,6.2,83,1018
+Halifax,2024-05-18,50.61,49.17,overcast clouds,81,11.07,100,1021
+Halifax,2024-05-19,47.73,42.71,overcast clouds,74,11.54,99,1021
+Halifax,2024-05-20,49.93,45.73,clear sky,52,10.65,0,1022
+Halifax,2024-05-21,55.15,52.34,few clouds,42,3.94,12,1023
+Oshawa,2024-05-17,54.73,54.37,overcast clouds,95,10.11,100,1013
+Oshawa,2024-05-18,55.87,55.76,overcast clouds,98,5.61,100,1014
+Oshawa,2024-05-19,55.72,55.27,broken clouds,91,7.72,65,1015
+Oshawa,2024-05-20,56.84,56.5,scattered clouds,91,5.48,31,1018
+Oshawa,2024-05-21,55.04,54.34,overcast clouds,87,9.28,100,1017
+Windsor,2024-05-17,61.72,61.63,light rain,86,3.87,100,1010
+Windsor,2024-05-18,65.41,65.79,overcast clouds,88,2.8,100,1010
+Windsor,2024-05-19,61.84,61.63,overcast clouds,83,5.14,99,1012
+Windsor,2024-05-20,60.8,60.1,broken clouds,75,6.98,52,1016
+Windsor,2024-05-21,65.55,66.13,light rain,92,9.84,100,1011
+Saskatoon,2024-05-17,51.93,51.1,light rain,91,14.7,100,991
+Saskatoon,2024-05-18,44.85,37.06,light rain,92,19.04,100,996
+Saskatoon,2024-05-19,38.53,32.34,light rain,96,8.9,100,1006
+Saskatoon,2024-05-20,35.1,28.51,light snow,98,8.19,100,1007
+Saskatoon,2024-05-21,39.69,31.51,overcast clouds,92,14.74,100,1011
+Regina,2024-05-17,53.56,52.61,broken clouds,85,10.49,56,993
+Regina,2024-05-18,42.35,33.53,light rain,92,20.11,100,998
+Regina,2024-05-19,41.56,36.37,clear sky,87,8.21,5,1007
+Regina,2024-05-20,38.59,30.69,broken clouds,80,13.04,65,1007
+Regina,2024-05-21,36.99,29.28,light snow,97,11.43,100,1011
+St. John's,2024-05-17,40.48,33.66,overcast clouds,93,11.43,100,1019
+St. John's,2024-05-18,43.0,36.77,scattered clouds,68,11.54,41,1027
+St. John's,2024-05-19,40.39,33.82,overcast clouds,77,10.74,100,1029
+St. John's,2024-05-20,39.42,30.15,moderate rain,98,18.28,100,1019
+St. John's,2024-05-21,42.67,37.54,light rain,97,8.63,100,1008
+Barrie,2024-05-17,57.11,56.8,overcast clouds,91,6.73,85,1012
+Barrie,2024-05-18,58.84,59.04,light rain,98,5.44,63,1013
+Barrie,2024-05-19,60.08,59.97,broken clouds,89,5.95,55,1014
+Barrie,2024-05-20,60.69,60.37,scattered clouds,83,4.97,36,1017
+Barrie,2024-05-21,58.19,57.7,overcast clouds,85,12.86,100,1015
+Sherbrooke,2024-05-17,58.37,57.52,broken clouds,77,2.46,64,1017
+Sherbrooke,2024-05-18,56.84,56.7,light rain,95,4.9,100,1017
+Sherbrooke,2024-05-19,60.06,59.43,overcast clouds,78,5.82,100,1017
+Sherbrooke,2024-05-20,60.51,60.26,broken clouds,85,4.41,68,1019
+Sherbrooke,2024-05-21,61.66,61.43,overcast clouds,83,4.45,86,1021
