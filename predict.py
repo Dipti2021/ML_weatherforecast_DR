@@ -7,10 +7,10 @@ def load_data():
     return pd.read_csv('weather_forecast.csv')
 
 # Load logistic regression model
-logistic_model = joblib.load('logistic_regression_weather_model.pkl')
+logistic_model = joblib.load('logistic_regression_weather_model.joblib')
 
 # Load random forest model
-random_forest_model = joblib.load('random_forest_weather_model.pkl')
+random_forest_model = joblib.load('random_forest_weather_model.joblib')
 
 def show_predict_page():
     st.title("Weather Prediction")
