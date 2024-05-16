@@ -3,21 +3,21 @@ import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 import joblib
 
-def load_data():
-    return pd.read_csv('weather_forecast.csv')
+# def load_data():
+#     return pd.read_csv('weather_forecast.csv')
 
-# Load logistic regression model
-logistic_model = joblib.load('logistic_regression_weather_model.joblib')
+# # Load logistic regression model
+# logistic_model = joblib.load('logistic_regression_weather_model.joblib')
 
-# Load random forest model
-random_forest_model = joblib.load('random_forest_weather_model.joblib')
+# # Load random forest model
+# random_forest_model = joblib.load('random_forest_weather_model.joblib')
 
 def show_predict_page():
     st.title("Weather Prediction")
     st.write("This page allows you to make predictions based on weather data.")
 
-    # Load data
-    df = load_data()
+    # # Load data
+    # df = load_data()
 
     # Get input features
     label_encoder = LabelEncoder()
