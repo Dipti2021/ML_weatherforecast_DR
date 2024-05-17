@@ -1,12 +1,17 @@
 import streamlit as st
 import pandas as pd
-import joblib
+
 import random
 import requests
+import pickle
 
-# Load trained models
-logistic_model = joblib.load('logistic_regression_weather_model.joblib')
-random_forest_model = joblib.load('random_forest_weather_model.joblib')
+# Load the models using pickle
+with open('logistic_regression_weather_model.pkl', 'rb') as file:
+    logistic_model = pickle.load(file)
+
+with open('random_forest_weather_model.pkl', 'rb') as file:
+    random_forest_model = pickle.load(file)
+
 
 api_key = "080275865c09c4113e944693377074bf"
 # Define feature names
