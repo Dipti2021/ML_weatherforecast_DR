@@ -9,7 +9,6 @@ ML Weather Forecast is a web application built with Streamlit that allows users 
 - [About](#about)
 - [Features](#features)
 - [Usage](#usage)
-- [Installation](#installation)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
 - [License](#license)
@@ -20,10 +19,15 @@ This project aims to provide users with a simple interface for weather predictio
 
 ## Features
 
+## Features
+
 - Predict weather conditions based on input parameters such as temperature, humidity, wind speed, cloudiness, and pressure.
-- Choose from a list of top cities in Canada for weather prediction.
-- Display actual temperature data retrieved from an external weather API.
+- Choose from a list of top 20 cities in Canada for weather prediction.
+- Display actual temperature data retrieved from an external weather API (Open Weather Map).
 - Compare predictions from different machine learning models.
+- Utilizes Pandas DataFrames for data manipulation and preprocessing.
+- Implements machine learning models including Logistic Regression and Random Forest.
+- Uses algorithms such as RNN for weather prediction.
 
 ## Usage
 
