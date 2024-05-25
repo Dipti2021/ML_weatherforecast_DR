@@ -1,4 +1,3 @@
-
 # ML Weather Forecast
 
 ML Weather Forecast is a web application built with Streamlit that allows users to predict weather conditions based on machine learning models.
@@ -25,7 +24,7 @@ This project aims to provide users with a simple interface for weather predictio
 - Display actual temperature data retrieved from an external weather API (Open Weather Map).
 - Compare predictions from different machine learning models.
 - Utilizes Pandas DataFrames for data manipulation and preprocessing.
-- Implements machine learning models including Logistic Regression and Random Forest.
+- Implements machine learning models including Polynomial Regression and Random Forest Regression.
 - Uses algorithms such as RNN for weather prediction.
 
 ## Usage
@@ -61,9 +60,3 @@ Contributions to ML Weather Forecast are welcome! To contribute, follow these st
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
-
-
-
-
