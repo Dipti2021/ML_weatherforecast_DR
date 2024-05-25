@@ -91,10 +91,10 @@ def plot_graph(actual_temperature, predicted_temperature, city, model_name):
     st.pyplot(plt)
 
 # Load the merged data CSV file
-df_merged1 = pd.read_csv('merged_data.csv')
-df_merged2 = pd.read_csv('predictions_with_actual.csv')
+df_merged = pd.read_csv('merged_data.csv')
+
 # Display the prediction page
-show_predict_page(df_merged1,df_merged2, feature_names)
+show_predict_page(df_merged, feature_names)
 
 
 
